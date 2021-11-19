@@ -58,6 +58,7 @@ export default function App() {
         }else{
           setCurrentNumber(Math.abs(currentNumber));
         }
+        
         return
       //case '%':
       //setCurrentNumber(currentNumber / 100);
